@@ -1,0 +1,146 @@
+.login_body {
+    background-image: url(../img/login_bgi.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.loginPage {
+    /* background-color: #ce3a3a; */
+    width: 1090px;
+    height: 600px;
+    position: relative;
+}
+
+.m-cnt .inputbox {
+    width: 298px !important;
+    height: 36px;
+    border: 1px solid #e8e8e8;
+    line-height: 36px;
+    border-radius: 2px;
+}
+.m-cnt .inputbox {
+    z-index: 19;
+    position: relative;
+    height: 44px;
+    margin-bottom: 0px;
+    border: 1px solid #c5cddb;
+    background: #fff;
+    font-size: 12px;
+    line-height: 44px;
+}
+
+
+
+
+
+
+.login_block {
+    position: absolute;
+    display: block;
+    background-color: #fff;
+    margin-top: 83px;
+    margin-left: 703px;
+    width: 386px;
+    height: auto !important;
+}
+
+.lp_block_main {
+    display: block;
+    min-height: 0px;
+    width: 386px;
+    background: #fff;
+    height: auto !important;
+    border: 1px solid #F5F3EF;
+    position: relative;
+}
+
+
+.m-cnt {
+    width: 300px;
+    margin: 0 auto;
+    padding: 0;
+    padding-top: 10px;
+    background-color: #fff;
+}
+.m-cnt .u-tab {
+    padding-bottom: 6px;
+}
+.u-tab {
+    width: 300px;
+    margin: 0 auto;
+    padding: 0 0 20px 0;
+}
+.u-tab .tab0 {
+    background-position: -380px -440px;
+    height: 26px;
+    line-height: 26px;
+}
+.u-tab .tab0, .u-tab .tab1 {
+    float: right;
+    padding: 0 0 0 34px;
+}
+.m-cnt .inputbox {
+    width: 298px !important;
+    height: 36px;
+    border: 1px solid #e8e8e8;
+    line-height: 36px;
+    border-radius: 2px;
+}
+.m-cnt .inputbox {
+    z-index: 19;
+    position: relative;
+    height: 44px;
+    margin-bottom: 0px;
+    border: 1px solid #c5cddb;
+    background: #fff;
+    font-size: 12px;
+    line-height: 44px;
+}
+.m-cnt .u-logo {
+    float: left;
+    width: 29px;
+    text-align: center;
+    padding: 7px 0 7px 7px;
+    height: 24px;
+}
+
+
+.m-cnt .u-logo .u-logo-img3 {
+    background: url(../img/phone.png) 4px 2px no-repeat;
+}
+.m-cnt .u-logo div {
+    display: inline-block;
+    width: 21px;
+    height: 24px;
+    margin-top: 0px;
+    padding-right: 7px;
+    border-right: 1px solid #e8e8e8;
+}
+.m-cnt .u-input {
+    position: relative;
+    float: left;
+    height: 100%;
+}
+.m-cnt #login-form .u-label {
+    width: 267px;
+}
+.m-cnt .u-label {
+    position: absolute;
+    width: 306px;
+    z-index: 100;
+    top: 0;
+    left: 10px;
+    color: #bdbdbd;
+    font-size: 14px;
+    font-weight: normal;
+    cursor: text;
+}
+.m-cnt .u-input input {
+    height: 36px;
+    line-height: 36px;
+    padding-left: 8px;
+    width: 214px;
+    font-size: 14px;
+    font-weight: normal;
+    background: #fff;
+}
