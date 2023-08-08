@@ -1,2 +1,2 @@
-# xiaomi_shop
-小米商城
+# wangyi_shop
+网易严选
